@@ -14,6 +14,7 @@ Flipping tiles game can be played to test our memory. In this, we have a certain
 
 
 ## 📽 Sample Demo:
+https://user-images.githubusercontent.com/63164037/136670589-4d5154f7-09cd-4302-ac0c-8a647903401d.mov
 
 ## 🧪 Steps to Build locally:
 - Open Android Studio IDE.
